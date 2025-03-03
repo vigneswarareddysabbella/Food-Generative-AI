@@ -49,11 +49,3 @@ Contributions are welcome! If you have ideas, bug reports, or want to add new fe
 
 ## Acknowledgements
 Google's Gemini Pro Vision API
-
-Streamlit
-
-## Authors
-
-- [@Aditya Wadkar](https://www.github.com/AdityaWadkar)
-
-
