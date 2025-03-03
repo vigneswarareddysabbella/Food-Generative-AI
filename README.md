@@ -30,7 +30,7 @@ Welcome to WellnessAI Advisior, your personal nutritionist powered by Google's G
 
 
 ## 💫 Getting Started 
-Clone the repository: git clone https://github.com/AdityaWadkar/WellnessAI-Achiever.git
+Clone the repository: git clone https://github.com/vigneswarareddysabbella/Food-Generative-AI
 
 Install dependencies: pip install -r requirements.txt
 
