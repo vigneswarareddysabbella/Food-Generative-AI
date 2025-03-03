@@ -26,9 +26,6 @@ Welcome to WellnessAI Advisior, your personal nutritionist powered by Google's G
 **Scripting Language:** Python
 **Deployment partner:** Streamlit
 
-## 🔴 Video Demo!
-Project demo :- [Click Here](https://youtu.be/HahL1pftYGQ)
-
 <img src="https://github.com/AdityaWadkar/WellnessAI-Achiever/assets/67093170/5e9d3010-81ef-4e4b-af3f-ea54db672e1a">
 
 
